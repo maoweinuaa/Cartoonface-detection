@@ -1,0 +1,9 @@
+how to run：
+
+if you use an image
+
+python detect.py
+
+if you deal with many images
+
+python detectfile.py
