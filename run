@@ -6,4 +6,4 @@ python detect.py
 
 if you deal with many images
 
-python detectfile.py
+python detectfile.py --test_file ./data.. --save_file ./out...
