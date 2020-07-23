@@ -22,6 +22,7 @@ CartoonFace(size of 1.8MB) is a practical anchor-free face detection and alignme
 ### Discussion
 
   Welcome to join in WECHAT :NASA1228 for more discussion, including but not limited to face detection, face anti-spoofing and so on.
+  QQ group：1146225717
 
 ### Author
  - [maoweinasa](https://github.com/maoweinasa)
